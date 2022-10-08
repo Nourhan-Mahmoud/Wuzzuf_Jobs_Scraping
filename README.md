@@ -1,6 +1,6 @@
 # Wuzzuf_Jobs_Scraping
  Scrape jobs from Wuzzuf for learning purpose.
- 
+ With any **job title** and **number of jobs**.
  ## Application Video
  
 
